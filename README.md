@@ -20,7 +20,7 @@ brew install kotlin kotlin-native
 enter the sample code folder and use the desired compiler:
 
 ```bash
-cd 00-hello-world
+cd l-00-hello-world
 kotlinc Hello.kt -include-runtime -d Hello.jar # for jvm 
 kotlinc-native Hello.kt -o Hello # for native executable
 ```

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/l-00-hello-world/l-00-hello-world.iml" filepath="$PROJECT_DIR$/l-00-hello-world/l-00-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l-01-another-folder/l-01-another-folder.iml" filepath="$PROJECT_DIR$/l-01-another-folder/l-01-another-folder.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-kotlin.iml" filepath="$PROJECT_DIR$/simple-kotlin.iml" />
     </modules>
   </component>

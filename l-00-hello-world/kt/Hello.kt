@@ -1,4 +1,3 @@
-
 class Hi {
   fun sayHello() = "Hello"
 }
