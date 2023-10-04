@@ -3,5 +3,5 @@ class Hi {
 }
 
  fun main(args: Array<String>) {
-  print("hello world!\n")
+  print("hello world! ${Hi().sayHello()}\n")
 }
